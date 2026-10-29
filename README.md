@@ -12,3 +12,5 @@ Estudio Ingeniería en IA y me interesa el \*\*procesamiento de lenguaje natural
 
 pandurin397-cell
 
+
+![Descripción](conejo.jpg)
