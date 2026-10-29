@@ -13,6 +13,6 @@ Estudio Ingeniería en IA y me interesa el \*\*procesamiento de lenguaje natural
 pandurin397-cell
 
 https://huggingface.co/openai/whisper-small
-
+![cap](cap.png)
 
 ![Descripción](conejo.jpg)
