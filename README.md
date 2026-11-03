@@ -12,6 +12,8 @@ Estudio Ingeniería en IA y me interesa el \*\*procesamiento de lenguaje natural
 
 pandurin397-cell
 
+[Repositorio del equipo](https://github.com/doripil-cloud/in1050-B4-Transcripcion)
+
 https://huggingface.co/openai/whisper-small
 ![cap](cap.png)
 
