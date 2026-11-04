@@ -14,7 +14,7 @@ pandurin397-cell
 
 Jorge Andrés Ruiz López
 
-[Mis comandos de terminal y Git (Práctica 4)](notas/comandos.md)
+[Mis comandos de terminal y Git (Práctica 4)](Notas)
 
 [Repositorio del equipo](https://github.com/doripil-cloud/in1050-B4-Transcripcion)
 
