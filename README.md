@@ -12,7 +12,7 @@ Estudio Ingeniería en IA y me interesa el \*\*procesamiento de lenguaje natural
 
 pandurin397-cell
 
-[Ficha del proyecto con diagrama ](prácticas 2 y 3)](practica-3/README.md)
+Jorge Andrés Ruiz López
 
 [Mis comandos de terminal y Git (Práctica 4)](notas/comandos.md)
 
