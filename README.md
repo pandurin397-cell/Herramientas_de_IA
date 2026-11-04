@@ -1,14 +1,14 @@
 Murciélago come manzanas
 
-\# Portafolio de Jorge Andrés Ruiz López
+# Portafolio de Jorge Andrés Ruiz López
 
 Herramientas de Procesamiento para IA · Ibero León · Otoño 2026
 
-\## Sobre mí
+## Sobre mí
 
 Estudio Ingeniería en IA y me interesa el \*\*procesamiento de lenguaje natural\*\*.
 
-\## Prácticas- \[Práctica 3: README del proyecto](practica-3/README.md)
+## Prácticas- \[Práctica 3: README del proyecto](practica-3/README.md)
 
 pandurin397-cell
 
